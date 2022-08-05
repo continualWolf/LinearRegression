@@ -1,0 +1,15 @@
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\bin\Debug\net6.0\LinearRegression.exe
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\bin\Debug\net6.0\LinearRegression.deps.json
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\bin\Debug\net6.0\LinearRegression.runtimeconfig.json
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\bin\Debug\net6.0\LinearRegression.dll
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\bin\Debug\net6.0\LinearRegression.pdb
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.csproj.AssemblyReference.cache
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.AssemblyInfoInputs.cache
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.AssemblyInfo.cs
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.csproj.CoreCompileInputs.cache
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.dll
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\refint\LinearRegression.dll
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.pdb
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\LinearRegression.genruntimeconfig.cache
+C:\Users\bmwat\source\repos\LinearRegression\LinearRegression\obj\Debug\net6.0\ref\LinearRegression.dll
